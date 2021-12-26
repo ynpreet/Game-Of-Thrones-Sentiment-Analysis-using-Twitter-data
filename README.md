@@ -52,6 +52,9 @@ from wordcloud import WordCloud, STOPWORDS
 <a href="https://ynpreetmehta.medium.com/">
 <img align="left" src="https://github.com/ynpreet/Game-Of-Thrones-Sentiment-Analysis-using-Twitter-data/tree/main/mediumlogo/medium-seeklogo.com.svg" alt="Medium" width="25px" height='23.5' />
 </a>  
+  
+![Medium](mediumlogo/medium-seeklogo.com.svg?raw=true "Title")
+
  
 <a href="https://www.instagram.com/ynpreet/" target="blank">
   <img align="left" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Instagram%20(1).svg" alt="instagram" width="24px" />
