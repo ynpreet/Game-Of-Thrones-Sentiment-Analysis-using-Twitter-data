@@ -1,8 +1,5 @@
 # Game-Of-Thrones-Sentiment-Analysis-using-Twitter-data
 
-## About The Sparks Foundation
-![](img1.png)
-
 ## Checkout my Tableau Dahboard
 [Tableau Public](https://public.tableau.com/app/profile/preet.shailesh.mehta/viz/PreetMehta_Gameofthrones/Kills?publish=yes)
 
@@ -51,6 +48,10 @@ from wordcloud import WordCloud, STOPWORDS
 <a href="https://www.linkedin.com/in/preetmehta/">
   <img align="left" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Linkedin%20(1).svg" alt="kushal's linkedin" width="24px" />
 </a>  
+
+<a href="https://ynpreetmehta.medium.com/">
+<img align="left" src="https://github.com/ynpreet/Game-Of-Thrones-Sentiment-Analysis-using-Twitter-data/tree/main/mediumlogo/5754350.png" alt="Preet Medium" width="24px" />
+</a>  
  
 <a href="https://www.instagram.com/ynpreet/" target="blank">
   <img align="left" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Instagram%20(1).svg" alt="instagram" width="24px" />
@@ -63,6 +64,7 @@ from wordcloud import WordCloud, STOPWORDS
 ## 👀License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://opensource.org/licenses/MIT) file for details
+
 ## 🙏Acknowledgments
 
 * Special Thanks to **[Shelly Tan](https://www.linkedin.com/in/shelly-tan-842a1b2b/)** for sharing wonderful data of game of thrones
