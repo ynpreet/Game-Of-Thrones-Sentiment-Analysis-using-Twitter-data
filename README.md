@@ -50,7 +50,7 @@ from wordcloud import WordCloud, STOPWORDS
 </a>  
 
 <a href="https://ynpreetmehta.medium.com/">
-<img align="left" src="https://github.com/ynpreet/Game-Of-Thrones-Sentiment-Analysis-using-Twitter-data/tree/main/mediumlogo/medium-seeklogo.com.svg" alt="Medium" width="24px" />
+<img align="left" src="https://github.com/ynpreet/Game-Of-Thrones-Sentiment-Analysis-using-Twitter-data/tree/main/mediumlogo/medium-seeklogo.com.svg" alt="Medium" width="25px" height='23.5' />
 </a>  
  
 <a href="https://www.instagram.com/ynpreet/" target="blank">
