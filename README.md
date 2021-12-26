@@ -31,7 +31,7 @@ from nltk.stem import WordNetLemmatizer,PorterStemmer
 from nltk.tokenize import word_tokenize
 from wordcloud import WordCloud, STOPWORDS
 ```
-## Installing
+<!-- ## Installing
 ## Running the tests
 ## Break down into end to end tests
 ## And coding style tests
@@ -40,7 +40,7 @@ from wordcloud import WordCloud, STOPWORDS
 
 * [Scikit-learn](https://scikit-learn.org/stable/) 
 ## Contributing
-## Versioning
+## Versioning -->
 ## 💃Authors
 
 * **Preet Mehta**  
