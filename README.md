@@ -1,24 +1,18 @@
 # Game-Of-Thrones-Sentiment-Analysis-using-Twitter-data
 
-# The Sparks Foundation - Machine Learning and Data Science Project Tasks
-This Repo Consists of some of the Tasks for The Sparks Foundation-Machine Learning and Data Science Internship, containing Supervised and Unsupervised Machine Learning Techniques to solve A ML Problem in a Systematic Way.
-
 ## About The Sparks Foundation
 ![](img1.png)
 
-[The Sparks Foundation](https://thesparksfoundationsingapore.org/)  mission is to inspire students, help them innovate, and let them integrate to build the next generation humankind. To inspire, motivate, and encourage students to learn, create, and help build a better society. To teach new ways of thinking, to innovate and solve the problems on their own. We help the students to integrate and help each other, learn from each other, and do well together.
-
-Their Vision Statement : A world of enabled and connected little minds, building future. Our Mission Statement To inspire students, help them innovate and let them integrate to build the next generation humankind.
+## Checkout my Tableau Dahboard
+[Tableau Public](https://public.tableau.com/app/profile/preet.shailesh.mehta/viz/PreetMehta_Gameofthrones/Kills?publish=yes)
 
 ## Getting Started
-Welcome to my Getting Started Guide. Looking for a Data Science Projects Every Beginner should add to the Portfolio, that enhances and improves your knowledge in the data science domain and is easy to get started with? You’ve come to the right place. I am Preet Mehta, an aspiring data scientist, data enthusiast and a professional graphics designer since 2014. Here you will find the projects in 3 categories:  
-1. Beginner
-2. Intermediate
-3. Advanced
+Welcome to my Getting Started Guide. 
 
 ## 🔑Prerequisites
 
 ```
+pip install kaggle
 pip install numpy
 pip install pandas
 pip install jupyter
@@ -26,6 +20,19 @@ pip install seaborn
 pip install scipy
 pip install matplotlib
 %matplotlib inline
+import spacy
+import en_core_web_sm
+from nltk.corpus import stopwords
+import nltk
+!pip install stop_words
+from stop_words import get_stop_words
+nltk.download('stopwords')
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer,PorterStemmer
+from nltk.tokenize import word_tokenize
+from wordcloud import WordCloud, STOPWORDS
 ```
 ## Installing
 ## Running the tests
@@ -58,17 +65,14 @@ pip install matplotlib
 This project is licensed under the MIT License - see the [LICENSE.md](https://opensource.org/licenses/MIT) file for details
 ## 🙏Acknowledgments
 
-* Special Thanks to **The Sparks Foundation** for this Wonderful Internship Experience and Inspiration to do more.
-## 🚀Clone Repository 
-```
-https://github.com/ynpreet/thesparksfoundation-projects
-```
+* Special Thanks to **[Shelly Tan](https://www.linkedin.com/in/shelly-tan-842a1b2b/)** for sharing wonderful data of game of thrones
+* [References](https://www.washingtonpost.com/graphics/entertainment/game-of-thrones/) 
 
 ## 📁 Dataset
 You can get the Dataset here
 
-1. [Task 1-Supervised Learning](https://github.com/aparajitad60/The-Sparks-Foundation---Machine-Learning-Data-Science/blob/master/t1.csv) 
-2. [Task 2-UnSupervised Learning](https://github.com/aparajitad60/The-Sparks-Foundation---Machine-Learning-Data-Science/blob/master/Iris.csv)
+[Link](https://github.com/ynpreet/Game-Of-Thrones-Sentiment-Analysis-using-Twitter-data/tree/main/Dataset)
+
 ## 💡Working 
 
 Make Sure that you Either Have *Jupyter Notebook* or *Spyder* to Run the code with amazing Visualizations and run any of the following in your Command Prompt in the directory that holds this repo. 
